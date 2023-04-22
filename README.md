@@ -7,6 +7,7 @@ This software is small in size
 Quick installation
 It can help you quickly install the Pyinstaller module and pyqt5，Say goodbye to fidgety input pips
 And this software contains perfect Chinese
+And the SunsetPytoolsTest Can Helps you see if you meet the usage requirements
 Pleasant to use！
 ------------------------------------------------------------------------------------------------------------------------------------------
 Chinese translation:
@@ -20,4 +21,5 @@ Chinese translation:
 它可以帮助您快速安装 Pyinstaller 模块和 pyqt5，告别烦躁的输入点数!
 这个软件含有完善的中文翻译！
 ![X4S6 2$K(8RK}R)D1H$FEB5](https://user-images.githubusercontent.com/71213793/233783120-a5983087-5c69-4a08-8db4-481fdc6cc92b.png)
+并且里面的SunsetPytoolsTest可以帮助你检测你是否符合使用Tools的标准！
 祝你使用愉快！
